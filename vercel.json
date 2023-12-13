@@ -3,4 +3,4 @@
       { "source": "/(.*)", "destination": "https://brilliant-pastelito-80abae.netlify.app/$1", "permanent": true }
     ]
   }
-  git
+  
