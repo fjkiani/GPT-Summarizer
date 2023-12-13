@@ -24,3 +24,5 @@ export const articleApi = createApi({
 
 //fire redux hook on demand 
 export const { useLazyGetSummaryQuery } = articleApi
+
+
